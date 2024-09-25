@@ -2,7 +2,7 @@
 
 Uma plataforma de rede social simples para usuários compartilharem portfólios profissionais, criada usando React .
 
-##Características
+## Características
 
 Registro e login do usuário : manuseio básico de formulários para criação de contas e login.
 Criação de perfil : os usuários podem criar e editar seus portfólios pessoais, adicionando informações profissionais.
@@ -10,7 +10,7 @@ Publicação de projetos : capacidade de compartilhar projetos individuais, com 
 Feed de projetos : um feed dinâmico que mostra todos os projetos recentes postados pelos usuários.
 Curtidas e comentários : interações sociais básicas, como curtir e comentar projetos. 
 
-##Tecnologias Aplicadas
+## Tecnologias Aplicadas
 
 React : usado para criar a interface do usuário e gerenciar o estado entre os componentes.
 React Router : lida com o roteamento do lado do cliente, permitindo a navegação entre diferentes páginas sem recarregar o aplicativo.
