@@ -1,3 +1,1 @@
-Projeto de uma rede social de portfólios de profissionais da tecnologia. crud básico feito em next, typescript, tailwind, zustand no frontend e node, typescript, mongoose, mongodb no padrão model, controller e service no backend.
-
-realizado deploy do backend na vercel e frontend no netlify.
+O repositório social-portfolios-react contém um projeto para uma rede de portfólio social para profissionais de tecnologia. No frontend, ele usa Next.js, TypeScript, Tailwind CSS e Zustand para gerenciamento de estado. No backend, ele implementa Node.js, TypeScript, Mongoose e MongoDB seguindo o padrão MSC (Model, Service, Controller). A autenticação é feita com JWT, e o hash de senha usa Bcrypt. 
